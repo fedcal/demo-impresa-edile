@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-impresa-edile",
+  "name": "demo-impresa-edile",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Impresa Edile — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://impresa-edile.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-impresa-edile.git"
+    "url": "https://github.com/fedcal/demo-impresa-edile.git"
   },
   "scripts": {
     "ng": "ng",

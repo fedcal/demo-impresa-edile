@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Impresa Edile** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://impresa-edile.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-impresa-edile/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-impresa-edile/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-impresa-edile.git
-cd federico-demo-impresa-edile
+git clone https://github.com/fedcal/demo-impresa-edile.git
+cd demo-impresa-edile
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:impresa-edile
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-impresa-edile/
+→ https://fedcal.github.io/demo-impresa-edile/
 
 ## Hub demos Federico
 
