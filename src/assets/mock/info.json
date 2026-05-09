@@ -1,0 +1,44 @@
+{
+  "ragioneSociale": "Edilcasa Costruzioni S.r.l.",
+  "nomeCommerciale": "Edilcasa Costruzioni",
+  "tagline": "Ristrutturazioni e nuove costruzioni — Bari",
+  "cassaEdile": "Cassa Edile di Bari — Cod. AE 07124",
+  "piva": "08542310727",
+  "anniAttivita": 22,
+  "indirizzo": {
+    "via": "Via Capruzzi 145",
+    "citta": "Bari",
+    "provincia": "BA",
+    "cap": "70124",
+    "regione": "Puglia",
+    "paese": "Italia",
+    "lat": 41.1158,
+    "lng": 16.8762
+  },
+  "contatti": {
+    "telefono": "+39 080 555 7890",
+    "whatsapp": "+39 333 555 7890",
+    "email": "info@edilcasa-demo.it",
+    "social": {
+      "instagram": "https://instagram.com/edilcasa_demo",
+      "facebook": "https://facebook.com/edilcasademo"
+    }
+  },
+  "orari": {
+    "lunedi_venerdi": "08:00 – 18:00",
+    "sabato": "08:00 – 13:00",
+    "domenica": "Chiuso"
+  },
+  "metaSeo": {
+    "title": "Edilcasa Costruzioni — Ristrutturazioni a Bari",
+    "description": "Impresa edile a Bari specializzata in ristrutturazioni residenziali, nuove costruzioni, fotovoltaico e pratiche edilizie. Preventivo gratuito.",
+    "keywords": [
+      "impresa edile Bari",
+      "ristrutturazioni Bari",
+      "ristrutturazione bagno Bari",
+      "superbonus Bari",
+      "fotovoltaico Bari",
+      "abbattimento barriere architettoniche"
+    ]
+  }
+}

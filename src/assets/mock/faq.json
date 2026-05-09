@@ -1,0 +1,44 @@
+{
+  "faq": [
+    {
+      "domanda": "Cos'è il Superbonus e posso ancora usarlo nel 2024-2025?",
+      "risposta": "Il Superbonus permette una detrazione fiscale del 90% sugli interventi trainanti (cappotto, impianto termico) e trainati (fotovoltaico, accumulo, barriere). Dal 2024 è al 70% per nuove pratiche su unifamiliari, mentre i lavori già avviati con SAL mantengono l'aliquota originaria. Gestiamo noi tutta la documentazione: APE pre e post, asseverazione tecnica, CILA e relazione di conformità.",
+      "categoria": "incentivi"
+    },
+    {
+      "domanda": "Cos'è il Sismabonus e a chi si applica?",
+      "risposta": "Il Sismabonus prevede detrazioni dall'50% all'85% per interventi di riduzione del rischio sismico su edifici in zone 1, 2 e 3. L'aliquota sale se si passa da 2 o più classi di rischio. Per condomini con cessione del credito si può arrivare all'85%. Effettuiamo la classificazione sismica, il progetto strutturale e l'asseverazione richiesta dalla norma.",
+      "categoria": "incentivi"
+    },
+    {
+      "domanda": "Che garanzie offrite sui lavori eseguiti?",
+      "risposta": "Offriamo garanzia biennale sulle opere edili ai sensi dell'art. 1667 c.c. e decennale sui vizi strutturali (art. 1669 c.c.). Per gli impianti, la garanzia segue quella del costruttore (2-10 anni). Siamo iscritti alla Cassa Edile di Bari con regolarità DURC, coperti da polizza RC professionale da €2.000.000 e polizza CAR cantiere su ogni commessa.",
+      "categoria": "garanzie"
+    },
+    {
+      "domanda": "Quanto tempo richiede una ristrutturazione completa?",
+      "risposta": "I tempi dipendono dalla metratura e dalla complessità dell'intervento. Un bagno richiede 5-10 giorni lavorativi, una cucina 15-20, un appartamento di 80-100 mq 8-12 settimane. Prima dell'inizio definiamo con voi un cronoprogramma dettagliato con milestone e penali per il ritardo. Mediamente rispettiamo i tempi nel 94% dei cantieri.",
+      "categoria": "tempistiche"
+    },
+    {
+      "domanda": "Usate materiali certificati? Posso sceglierli?",
+      "risposta": "Lavoriamo esclusivamente con materiali certificati CE, DoP (Dichiarazione di Prestazione) e marcatura italiana UNI. I nostri fornitori principali sono Weber, Caparol, Kerakoll e Mapei per le opere edili; Rehau, Prandini e Watts per gli impianti idraulici; ABB e Legrand per l'elettrico. Il cliente può scegliere finiture, colori e accessori tra le opzioni del capitolato, o richiedere soluzioni su misura con sovrapprezzo documentato.",
+      "categoria": "materiali"
+    },
+    {
+      "domanda": "Il preventivo è gratuito? Come funziona?",
+      "risposta": "Il sopralluogo e il preventivo sono gratuiti e senza impegno. Il tecnico viene presso di voi, prende le misure, analizza lo stato di fatto e vi consegna entro 5 giorni lavorativi un preventivo dettagliato con computo metrico estimativo e capitolato. In fase di contratto forniamo anche il cronoprogramma lavori e il piano di sicurezza cantiere.",
+      "categoria": "preventivo"
+    },
+    {
+      "domanda": "Come gestite la cessione del credito o lo sconto in fattura?",
+      "risposta": "Gestiamo internamente cessione del credito e sconto in fattura per interventi che vi danno diritto agli incentivi fiscali. Collaboriamo con istituti di credito convenzionati (BCC Bari, Banca Popolare di Puglia e Basilicata) per la cessione immediata. Il cliente firma la cessione e noi anticipiamo il costo, percependo il rimborso dall'istituto. Nessun anticipo richiesto per interventi Superbonus qualificati.",
+      "categoria": "incentivi"
+    },
+    {
+      "domanda": "Operate solo a Bari o anche in provincia?",
+      "risposta": "Operiamo su Bari e tutta la provincia BAT, Altamura, Gravina, Taranto nord e Brindisi nord — entro 80 km da Bari. Per interventi di importo superiore a €80.000, valutiamo anche commesse in Puglia fuori provincia. Disponiamo di 3 squadre operative indipendenti che possono lavorare in parallelo su cantieri diversi.",
+      "categoria": "zone"
+    }
+  ]
+}

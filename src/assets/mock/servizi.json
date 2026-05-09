@@ -1,0 +1,131 @@
+{
+  "servizi": [
+    {
+      "id": "ristrutturazione-casa",
+      "nome": "Ristrutturazione casa",
+      "descrizione": "Ristrutturazione completa di appartamenti e ville. Gestione chiavi in mano dall'analisi al collaudo finale con direzione lavori inclusa.",
+      "dettagli": [
+        "Sopralluogo e analisi strutturale gratuita",
+        "Progettazione architettonica e impiantistica",
+        "Demolizioni controllate e rimozione amianto",
+        "Opere murarie, intonaci e finiture",
+        "Impianto idrico, elettrico e di riscaldamento",
+        "Pavimenti, rivestimenti e serramenti"
+      ],
+      "incentivi": ["Bonus ristrutturazione 50%", "Superbonus 90%"],
+      "icon": "🏠",
+      "ordine": 1
+    },
+    {
+      "id": "ristrutturazione-bagno",
+      "nome": "Ristrutturazione bagno",
+      "descrizione": "Rifacimento completo del bagno in 5-10 giorni lavorativi. Sostituzione impianti idraulici, posa piastrelle, sanitari e arredo bagno di qualità.",
+      "dettagli": [
+        "Demolizione completa o parziale",
+        "Impermeabilizzazione a regola d'arte",
+        "Nuova tubazione in multistrato",
+        "Posa piastrelle e mosaici",
+        "Sanitari sospesi e a pavimento",
+        "Box doccia e vasche idromassaggio"
+      ],
+      "incentivi": ["Bonus ristrutturazione 50%"],
+      "icon": "🚿",
+      "ordine": 2
+    },
+    {
+      "id": "ristrutturazione-cucina",
+      "nome": "Ristrutturazione cucina",
+      "descrizione": "Rinnovo completo della cucina: impianti, rivestimenti, pavimenti e nuovo layout funzionale in collaborazione con i migliori arredatori locali.",
+      "dettagli": [
+        "Nuovo impianto gas a norma UNI 7129",
+        "Elettrico dedicato cucina CEI 64-8",
+        "Posa piastrelle e rivestimenti a parete",
+        "Modifica muratoria per layout open space",
+        "Cappa aspirante e ventilazione forzata",
+        "Collegamento elettrodomestici in incasso"
+      ],
+      "incentivi": ["Bonus ristrutturazione 50%"],
+      "icon": "🍳",
+      "ordine": 3
+    },
+    {
+      "id": "facciate",
+      "nome": "Risanamento facciate",
+      "descrizione": "Risanamento e riqualificazione delle facciate condominiali e private. Intonaci, pitture, rivestimenti lapidei e cappotto termico integrato.",
+      "dettagli": [
+        "Analisi dello stato di degrado",
+        "Ripristino strutturale di lesioni e distacchi",
+        "Intonaco a base calce o silossanico",
+        "Pittura idrorepellente certificata",
+        "Rivestimenti in pietra, clinker o klinker",
+        "Bonifica e rifacimento cornicioni"
+      ],
+      "incentivi": ["Bonus facciate 60%", "Superbonus 90%"],
+      "icon": "🏗️",
+      "ordine": 4
+    },
+    {
+      "id": "isolamento-termico",
+      "nome": "Isolamento termico",
+      "descrizione": "Cappotto termico esterno e isolamento dell'involucro edilizio per abbattere i consumi energetici fino al 40% e migliorare la classe energetica.",
+      "dettagli": [
+        "Diagnosi energetica certificata",
+        "Cappotto in EPS, lana minerale o sughero",
+        "Isolamento sottotetto e pavimento",
+        "Sostituzione infissi a taglio termico",
+        "Salto di 2 classi energetiche garantito",
+        "Relazione APE finale inclusa"
+      ],
+      "incentivi": ["Ecobonus 65%", "Superbonus 90%"],
+      "icon": "🌡️",
+      "ordine": 5
+    },
+    {
+      "id": "fotovoltaico",
+      "nome": "Impianti fotovoltaici",
+      "descrizione": "Progettazione e installazione di impianti fotovoltaici residenziali e condominiali con accumulo in batteria. Autorizzazioni pratiche incluse.",
+      "dettagli": [
+        "Sopralluogo e dimensionamento gratuito",
+        "Pannelli monocristallini classe 1 IEC",
+        "Inverter ibrido con gestione accumulo",
+        "Sistema accumulo 5-20 kWh LiFePO4",
+        "Collaudo ENEA e allacciamento GSE",
+        "Monitoraggio remoto via app"
+      ],
+      "incentivi": ["Detrazione 50% fotovoltaico", "Conto energia accumulo"],
+      "icon": "☀️",
+      "ordine": 6
+    },
+    {
+      "id": "barriere-architettoniche",
+      "nome": "Abbattimento barriere",
+      "descrizione": "Adeguamento di appartamenti e condomini per l'accessibilità: rampe, ascensori, bagni disabili, maniglioni e percorsi tattili.",
+      "dettagli": [
+        "Analisi accessibilità DM 236/89",
+        "Installazione rampe e scivoli",
+        "Adeguamento bagno disabili",
+        "Montascale e miniascensori",
+        "Ampliamento varchi e porte scorrevoli",
+        "Maniglioni, corrimano e percorsi tattili"
+      ],
+      "incentivi": ["Detrazione 75% L.13/1989", "Superbonus per condomini"],
+      "icon": "♿",
+      "ordine": 7
+    },
+    {
+      "id": "pratiche-edilizie",
+      "nome": "Pratiche edilizie",
+      "descrizione": "Gestione completa delle pratiche urbanistiche e fiscali: CILA, SCIA, permessi di costruire, DIA, e gestione incentivi Superbonus e sismabonus.",
+      "dettagli": [
+        "CILA e SCIA al Comune di Bari",
+        "Permesso di costruire e DIA",
+        "APE e certificazione energetica",
+        "Gestione Superbonus 90%",
+        "Sismabonus fino all'85%",
+        "Cessione del credito e sconto in fattura"
+      ],
+      "icon": "📋",
+      "ordine": 8
+    }
+  ]
+}

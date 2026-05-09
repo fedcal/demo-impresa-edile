@@ -1,0 +1,44 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Ing. Francesco Laterza",
+      "ruolo": "Titolare e Direttore Lavori",
+      "bio": "Ingegnere civile laureato al Politecnico di Bari nel 2002. Ha fondato Edilcasa nel 2003 dopo 3 anni in uno studio di ingegneria strutturale. Specializzato in consolidamento strutturale e interventi su edifici storici.",
+      "anniEsperienza": 22,
+      "specialita": ["Strutture", "Direzione lavori", "Superbonus", "Pratiche edilizie"]
+    },
+    {
+      "id": 2,
+      "nome": "Arch. Maria Colamussi",
+      "ruolo": "Progettista e Coordinatrice Sicurezza",
+      "bio": "Architetta con master in progettazione sostenibile. Gestisce la progettazione architettonica e la sicurezza nei cantieri. Esperta in riqualificazione energetica e pratiche SUAP.",
+      "anniEsperienza": 14,
+      "specialita": ["Progettazione", "Sicurezza cantiere", "Efficienza energetica", "BIM"]
+    },
+    {
+      "id": 3,
+      "nome": "Salvatore Greco",
+      "ruolo": "Capo cantiere muratura",
+      "bio": "Capo cantiere con 25 anni di esperienza in opere murarie e strutturali. Ha lavorato su oltre 180 cantieri in Puglia e Basilicata. Specializzato in restauro facciate e interventi su vincolo storico.",
+      "anniEsperienza": 25,
+      "specialita": ["Muratura", "Facciate", "Ripristino strutturale", "Restauro"]
+    },
+    {
+      "id": 4,
+      "nome": "Michele Dambrosio",
+      "ruolo": "Capo cantiere impiantistica",
+      "bio": "Termoidraulico certificato con abilitazione L.46/90 e D.M. 37/2008. Specializzato in impianti fotovoltaici, termici e sistemi domotici. Certificazione Viessmann e Daikin.",
+      "anniEsperienza": 18,
+      "specialita": ["Impianti termici", "Fotovoltaico", "Domotica", "Antincendio"]
+    },
+    {
+      "id": 5,
+      "nome": "Carmela Vitale",
+      "ruolo": "Amministrazione e Pratiche Incentivi",
+      "bio": "Geometra esperta in catasto, urbanistica e gestione incentivi fiscali. Gestisce tutta la documentazione per Superbonus, sismabonus, ecobonus e cessione del credito.",
+      "anniEsperienza": 12,
+      "specialita": ["Catasto", "Superbonus", "Cessione credito", "CILA/SCIA"]
+    }
+  ]
+}
